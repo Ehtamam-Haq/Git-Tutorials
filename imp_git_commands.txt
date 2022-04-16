@@ -14,5 +14,7 @@ git config user.name //gives the present name of the developer
 git remote add origin "url"
 git push -u origin master
 git pull origin master
+press q when u want to exit from Git Bash
+
 
 
