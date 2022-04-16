@@ -1,0 +1,18 @@
+git repo
+git status
+ls cd
+git init
+git --version
+git add .
+git commit -m "version 1"
+git log
+git --global user.email "haqueehtemamul@gmail.com"
+git --global user.name "Ehtamam1202"
+git config user.email //gives the present email id of the developer
+git config user.name //gives the present name of the developer
+
+git remote add origin "url"
+git push -u origin master
+git pull origin master
+
+
